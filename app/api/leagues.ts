@@ -1,4 +1,4 @@
-'use server';
+//'use server';
 
 type League = { id: string; platform: "Yahoo"|"Sleeper"|"ESPN"; name: string };
 
